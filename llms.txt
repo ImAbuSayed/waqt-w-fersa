@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حبيبتي خذي يدي في هذا الليل
+> بين قلبينا أسرارٌ بلا دليل
+> أشعر بنار العشق تسري في دمي
+> وأنت في صمتي وكل أحلامي
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
