@@ -13,6 +13,7 @@
 | Lyric Writing Date | May 01, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/waqt-w-fersa/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [License this song: Waqt W Fersa](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
